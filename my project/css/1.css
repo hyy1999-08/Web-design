@@ -1,0 +1,55 @@
+
+body { 
+	font-family:"造字工房力黑体"; 
+	font-size:14px; 
+}
+a{text-decoration-line: none;}
+*{margin: 0;padding: 0;}
+h1{	font-family:"造字工房力黑体";text-indent: 20px;}
+h2{text-indent: 20px}
+#header{height:160px;width:2000px;margin:0 auto;margin-bottom: 5px;}
+#header2{height:160px;width:300px;float: left;}
+#header3{height:160px;width:500px;margin-left:400px;float: left;}
+#header4{height:160px;width:600px;margin-left:200px;float: left;}
+#headtitle{height:25px;width:2010px;margin:0 auto;margin-bottom: 10px;font-size: 20px;border:2px solid #a1a1a1;box-shadow: 10px 10px 5px #888888;
+background:#ddd;border-radius:25px;}
+li{display: inline;padding-left: 320px;}
+#BODY{width:2010px;height:1600px;margin:0 auto;}
+#BODY1{width:2010px;height:800px;margin:0 auto;}
+#BODY2{width:2010px;height:800px;margin:0 auto;clear: both;padding-top: 10px;}
+#base1{width:400px;height:800px;background-color: #444;margin-right:10px;float: left;box-shadow: 10px 10px 5px #888888;
+
+}
+
+#box1{width:1200px;height:800px;float: left;box-shadow: 10px 10px 5px #888888;
+
+}
+#box2{width:1200px ;height: 800px;float:right;margin: 0 auto;
+}
+
+#base3{width:400px;height:800px;background-color: #444;margin-left: :10px;float: right;box-shadow: 10px 10px 5px #888888;
+
+}
+#message1{width:1000px;height: 800px;}
+#ima1{width:400px;height:800px;float: left;background-color: #000;box-shadow: 10px 10px 5px #888888;
+
+}
+
+#message2{width:1000px;height: 800px;}
+
+
+
+a:link {
+color: #09f;text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+color: #03c;
+}
+a:active {
+text-decoration: none;
+color: #03c;
+}

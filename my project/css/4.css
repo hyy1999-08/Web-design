@@ -1,0 +1,35 @@
+a{text-decoration-line: none;}
+*{margin: 0;padding: 0;}
+h1{	font-family:"造字工房力黑体";text-indent: 20px;}
+h2{text-indent: 20px}
+#header{height:160px;width:200px;margin:0 auto;margin-bottom: 5px;}
+#header2{height:160px;width:400px;float: left;}
+#header3{height:160px;width:700px;margin-left:300px;float: left;}
+#header4{height:160px;width:600px;float: left;margin-left: 300px;}
+#headtitle{margin:0 auto;margin-bottom: :30px;font-size: 20px;border:2px solid #a1a1a1;box-shadow: 10px 10px 5px #888888;
+background:#ddd;border-radius:25px;}
+li{display: inline;}
+#BODY{margin:0 auto; }
+#content1{}
+#img1{}
+#img2{}
+#content2{}
+
+
+
+
+
+a:link {
+color: #09f;text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+color: #03c;
+}
+a:active {
+text-decoration: none;
+color: #03c;
+}
